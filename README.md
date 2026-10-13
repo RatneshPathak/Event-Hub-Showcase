@@ -10,7 +10,7 @@ A Java Servlet and JSP web application where students browse and join campus eve
 
 ## Preview
 
-![Event Hub home page](screenshots/YOURFILE.png)
+![Event Hub home page](screenshots/event-hub-ui.jpg)
 
 ## What Is Implemented
 
